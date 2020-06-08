@@ -1,0 +1,2 @@
+# shrinksidemenu
+Flutter Component
